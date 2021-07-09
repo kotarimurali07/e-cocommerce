@@ -1,0 +1,4 @@
+export const Action = {
+  GET_ALL_PRODUCTS_LIST: 'GET_ALL_PRODUCTS_LIST',
+  GET_PRODUCT: 'GET_PRODUCT',
+}
